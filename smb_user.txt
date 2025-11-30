@@ -1,0 +1,6 @@
+user
+msfadmin
+service
+root
+admin
+backup
